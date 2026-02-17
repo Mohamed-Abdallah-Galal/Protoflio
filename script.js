@@ -1,12 +1,13 @@
-/* =============================================
+/*! AWWWARDS-LEVEL PORTFOLIO | Mohamed Abdallah Galal */
+
+/* ============================================
    CERTIFICATE DATA
-   ============================================= */
+   ============================================ */
 const certData = {
     'cert-ecpc': {
         title: 'ICPC ECPC 2024 – Honorable Mention',
         issuer: 'Egyptian Collegiate Programming Contest (ICPC)',
         category: 'competition',
-        categoryLabel: 'Competition',
         file: 'assets/Certificates/2025-ECPCQDAYFIVE2024-Mohamed Abdallah Galal-PLACE.pdf',
         type: 'pdf'
     },
@@ -14,7 +15,6 @@ const certData = {
         title: 'Web Development using .NET',
         issuer: 'Information Technology Institute (ITI)',
         category: 'training',
-        categoryLabel: 'Training',
         file: 'assets/images/Certificates/ITI .NET Summer Training.jpg',
         type: 'image'
     },
@@ -22,7 +22,6 @@ const certData = {
         title: 'AI Career Essentials',
         issuer: 'ALX Africa',
         category: 'ai',
-        categoryLabel: 'AI',
         file: 'assets/images/Certificates/66-alx-aice-ai-career-essentials-certificate-mohamed-abdallah.jpg',
         type: 'image'
     },
@@ -30,111 +29,97 @@ const certData = {
         title: 'Professional Foundations',
         issuer: 'ALX Africa',
         category: 'soft-skills',
-        categoryLabel: 'Soft Skills',
         file: 'assets/images/Certificates/52-professional-foundations-certificate-mohamed-abdallah-galal-hefnawy.jpg',
         type: 'image'
     },
     'cert-prog-found': {
         title: 'Programming Foundations Level 1',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-programming-foundations-level-1.pdf',
         type: 'pdf'
     },
     'cert-found-2': {
         title: 'Foundations Level 2',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-09-foundations-level-2.pdf',
         type: 'pdf'
     },
     'cert-csharp-1': {
         title: 'C# Level 1',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-14-c-level-1.pdf',
         type: 'pdf'
     },
     'cert-oop': {
         title: 'OOP As It Should Be – Concepts',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-10-oop-as-it-should-be-concepts.pdf',
         type: 'pdf'
     },
     'cert-oop-cs': {
         title: 'OOP As It Should Be in C#',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-16-oop-as-it-should-be-in-c.pdf',
         type: 'pdf'
     },
     'cert-db-1': {
         title: 'Database Level 1 – SQL Concepts & Practice',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-15-database-level-1-sql-concepts-and-practice.pdf',
         type: 'pdf'
     },
     'cert-db-proj': {
         title: 'Database SQL Projects Practice',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-17-database-sql-projects-practice.pdf',
         type: 'pdf'
     },
     'cert-db-2': {
         title: 'Database Level 2 – T-SQL Concepts',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-21-database-level2-concepts-t-sql.pdf',
         type: 'pdf'
     },
     'cert-cs-db': {
         title: 'C# Database Connectivity',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-18-c-database-connectivity.pdf',
         type: 'pdf'
     },
     'cert-algo-1': {
         title: 'Algorithms & Problem Solving Level 1',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1.pdf',
         type: 'pdf'
     },
     'cert-algo-2': {
         title: 'Algorithms & Problem Solving Level 2',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf',
         type: 'pdf'
     },
     'cert-cs-intro-1': {
         title: 'Introduction to Programming using C# Level 1',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf',
         type: 'pdf'
     },
     'cert-cs-intro-2': {
         title: 'Introduction to Programming using C# Level 2',
-        issuer: 'Mahara-Tech / ITI',
+        issuer: 'ProgrammingAdvices.com',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf',
         type: 'pdf'
     },
@@ -142,7 +127,6 @@ const certData = {
         title: 'Introduction to Python',
         issuer: 'DataCamp',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/Introduciton to python.pdf',
         type: 'pdf'
     },
@@ -150,7 +134,6 @@ const certData = {
         title: 'Intermediate Python',
         issuer: 'DataCamp',
         category: 'technical',
-        categoryLabel: 'Technical',
         file: 'assets/Certificates/Intermediate Python.pdf',
         type: 'pdf'
     },
@@ -158,7 +141,6 @@ const certData = {
         title: 'Customer Service Fundamentals',
         issuer: 'IBM / Coursera',
         category: 'soft-skills',
-        categoryLabel: 'Soft Skills',
         file: 'assets/Certificates/Customer Service Fundamentals.pdf',
         type: 'pdf'
     },
@@ -166,234 +148,427 @@ const certData = {
         title: 'Coursera Specializations (5 Certificates)',
         issuer: 'Coursera',
         category: 'training',
-        categoryLabel: 'Training',
         files: [
-            { label: 'Certificate 1 (2FWJ7)', file: 'assets/Certificates/Coursera 2FWJ7AUC3YHR.pdf' },
-            { label: 'Certificate 2 (P4C9E)', file: 'assets/Certificates/Coursera P4C9EZBE7CU8.pdf' },
-            { label: 'Certificate 3 (T14KQ)', file: 'assets/Certificates/Coursera T14KQI6BE27D.pdf' },
-            { label: 'Certificate 4 (TU0ZA)', file: 'assets/Certificates/Coursera TU0ZA4OESGIE.pdf' },
-            { label: 'Certificate 5 (YAO7L)', file: 'assets/Certificates/Coursera YAO7LADKOYO1.pdf' }
+            { label: 'Certificate 1', file: 'assets/Certificates/Coursera 2FWJ7AUC3YHR.pdf' },
+            { label: 'Certificate 2', file: 'assets/Certificates/Coursera P4C9EZBE7CU8.pdf' },
+            { label: 'Certificate 3', file: 'assets/Certificates/Coursera T14KQI6BE27D.pdf' },
+            { label: 'Certificate 4', file: 'assets/Certificates/Coursera TU0ZA4OESGIE.pdf' },
+            { label: 'Certificate 5', file: 'assets/Certificates/Coursera YAO7LADKOYO1.pdf' }
         ],
         type: 'multi'
     }
 };
 
-/* =============================================
-   MODAL LOGIC
-   ============================================= */
-function openModal(id) {
-    const cert = certData[id];
-    if (!cert) return;
+/* ============================================
+   CUSTOM CURSOR
+   ============================================ */
+const cursor = document.getElementById('cursor');
+const cursorFollower = document.getElementById('cursorFollower');
 
-    const overlay = document.getElementById('modalOverlay');
-    const catTag = document.getElementById('modalCategory');
-    const title = document.getElementById('modalTitle');
-    const issuer = document.getElementById('modalIssuer');
-    const preview = document.getElementById('modalPreview');
-    const actions = document.getElementById('modalActions');
+if (window.innerWidth > 768) {
+    document.addEventListener('mousemove', (e) => {
+        cursor.style.transform = `translate(${e.clientX - 4}px, ${e.clientY - 4}px)`;
+        cursorFollower.style.transform = `translate(${e.clientX - 16}px, ${e.clientY - 16}px)`;
+    });
 
-    // Category tag
-    catTag.className = 'modal-category-tag ' + cert.category;
-    catTag.textContent = cert.categoryLabel;
-
-    // Title & issuer
-    title.textContent = cert.title;
-    issuer.innerHTML = '<i class="fas fa-building"></i> ' + cert.issuer;
-
-    // Preview & actions
-    preview.innerHTML = '';
-    actions.innerHTML = '';
-
-    if (cert.type === 'image') {
-        const img = document.createElement('img');
-        img.src = cert.file;
-        img.alt = cert.title;
-        img.onerror = function () {
-            preview.innerHTML = `
-                <div class="modal-preview-placeholder">
-                    <i class="fas fa-image"></i>
-                    <p>Preview not available. Click below to view.</p>
-                </div>`;
-        };
-        preview.appendChild(img);
-        actions.innerHTML = `<a href="${cert.file}" target="_blank"><i class="fas fa-external-link-alt"></i> Open Certificate</a>`;
-
-    } else if (cert.type === 'pdf') {
-        preview.innerHTML = `
-            <div class="modal-preview-placeholder">
-                <i class="fas fa-file-pdf" style="color:#ef4444;opacity:0.7;"></i>
-                <p>PDF Certificate – click below to open</p>
-            </div>`;
-        actions.innerHTML = `
-            <a href="${cert.file}" target="_blank"><i class="fas fa-eye"></i> View PDF</a>
-            <a href="${cert.file}" download class="secondary"><i class="fas fa-download"></i> Download</a>`;
-
-    } else if (cert.type === 'multi') {
-        preview.innerHTML = `
-            <div class="modal-preview-placeholder">
-                <i class="fas fa-certificates" style="color:var(--accent);opacity:0.7;"></i>
-                <p>Multiple certificates — select one below</p>
-            </div>`;
-        cert.files.forEach(item => {
-            actions.innerHTML += `<a href="${item.file}" target="_blank"><i class="fas fa-external-link-alt"></i> ${item.label}</a>`;
+    // Magnetic effect
+    const magneticElements = document.querySelectorAll('[data-magnetic]');
+    magneticElements.forEach(el => {
+        el.addEventListener('mouseenter', () => {
+            cursor.style.transform += ' scale(1.5)';
+            cursorFollower.style.transform += ' scale(1.3)';
         });
-    }
-
-    overlay.classList.add('open');
-    document.body.style.overflow = 'hidden';
-}
-
-function closeModal() {
-    const overlay = document.getElementById('modalOverlay');
-    overlay.classList.remove('open');
-    document.body.style.overflow = '';
-}
-
-document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') closeModal();
-});
-
-/* =============================================
-   CERTIFICATE FILTER
-   ============================================= */
-const filterBtns = document.querySelectorAll('.filter-btn');
-const certCards = document.querySelectorAll('.cert-card');
-
-filterBtns.forEach(btn => {
-    btn.addEventListener('click', () => {
-        filterBtns.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-
-        const filter = btn.dataset.filter;
-
-        certCards.forEach((card, i) => {
-            const cat = card.dataset.category;
-            const matches = filter === 'all' || cat === filter;
-            if (matches) {
-                card.classList.remove('hidden');
-                card.style.animation = 'none';
-                requestAnimationFrame(() => {
-                    card.style.animation = '';
-                    card.style.animationDelay = (i * 0.04) + 's';
-                });
-            } else {
-                card.classList.add('hidden');
-            }
+        el.addEventListener('mouseleave', () => {
+            cursor.style.transform = cursor.style.transform.replace(' scale(1.5)', '');
+            cursorFollower.style.transform = cursorFollower.style.transform.replace(' scale(1.3)', '');
         });
     });
-});
-
-/* =============================================
-   TYPING ANIMATION
-   ============================================= */
-const typingLines = [
-    '.NET Backend Developer',
-    'ASP.NET Core Engineer',
-    'Clean Architecture Advocate',
-    'SOLID Principles Enthusiast',
-    'ICPC ECPC 2024 Honorable'
-];
-
-let lineIndex = 0;
-let charIndex = 0;
-let isDeleting = false;
-const typingEl = document.getElementById('typingText');
-
-function typeLoop() {
-    if (!typingEl) return;
-    const currentLine = typingLines[lineIndex];
-
-    if (!isDeleting) {
-        typingEl.textContent = currentLine.substring(0, charIndex + 1);
-        charIndex++;
-        if (charIndex === currentLine.length) {
-            isDeleting = true;
-            setTimeout(typeLoop, 2200);
-            return;
-        }
-    } else {
-        typingEl.textContent = currentLine.substring(0, charIndex - 1);
-        charIndex--;
-        if (charIndex === 0) {
-            isDeleting = false;
-            lineIndex = (lineIndex + 1) % typingLines.length;
-        }
-    }
-    setTimeout(typeLoop, isDeleting ? 45 : 80);
 }
 
-window.addEventListener('load', () => {
-    setTimeout(typeLoop, 900);
-});
-
-/* =============================================
-   SCROLL REVEAL
-   ============================================= */
-const revealEls = document.querySelectorAll('.reveal-up, .reveal-left, .reveal-right');
-
-const revealObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            entry.target.classList.add('revealed');
-            revealObserver.unobserve(entry.target);
-        }
-    });
-}, { threshold: 0.12, rootMargin: '0px 0px -60px 0px' });
-
-revealEls.forEach(el => revealObserver.observe(el));
-
-/* =============================================
-   NAVBAR
-   ============================================= */
-const navbar = document.getElementById('navbar');
+/* ============================================
+   NAVIGATION
+   ============================================ */
+const nav = document.getElementById('nav');
 const navToggle = document.getElementById('navToggle');
-const navLinks = document.getElementById('navLinks');
+const navMenu = document.getElementById('navMenu');
 
 window.addEventListener('scroll', () => {
     if (window.scrollY > 60) {
-        navbar.classList.add('scrolled');
+        nav.classList.add('scrolled');
     } else {
-        navbar.classList.remove('scrolled');
+        nav.classList.remove('scrolled');
     }
 });
 
 navToggle.addEventListener('click', () => {
+    navMenu.classList.toggle('open');
     navToggle.classList.toggle('open');
-    navLinks.classList.toggle('open');
 });
 
-// Close nav on link click (mobile)
-document.querySelectorAll('.nav-link').forEach(link => {
-    link.addEventListener('click', () => {
-        navToggle.classList.remove('open');
-        navLinks.classList.remove('open');
-    });
-});
-
-// Active nav link on scroll
+// Active nav link
 const sections = document.querySelectorAll('section[id]');
+const navLinks = document.querySelectorAll('.nav__link');
+
 window.addEventListener('scroll', () => {
     const scrollY = window.scrollY;
     sections.forEach(sec => {
         const top = sec.offsetTop - 120;
         const height = sec.offsetHeight;
         const id = sec.getAttribute('id');
-        const link = document.querySelector(`.nav-link[href="#${id}"]`);
-        if (link) {
-            if (scrollY >= top && scrollY < top + height) {
-                link.classList.add('active');
-            } else {
+        
+        if (scrollY >= top && scrollY < top + height) {
+            navLinks.forEach(link => {
                 link.classList.remove('active');
-            }
+                if (link.getAttribute('href') === `#${id}`) {
+                    link.classList.add('active');
+                }
+            });
         }
     });
 });
 
-/* =============================================
+// Close mobile menu on link click
+document.querySelectorAll('.nav__link').forEach(link => {
+    link.addEventListener('click', () => {
+        navMenu.classList.remove('open');
+        navToggle.classList.remove('open');
+    });
+});
+
+/* ============================================
+   HERO PARTICLES
+   ============================================ */
+const canvas = document.getElementById('particles');
+const ctx = canvas.getContext('2d');
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+const particles = [];
+const particleCount = 50;
+
+class Particle {
+    constructor() {
+        this.x = Math.random() * canvas.width;
+        this.y = Math.random() * canvas.height;
+        this.size = Math.random() * 2 + 0.5;
+        this.speedX = Math.random() * 0.5 - 0.25;
+        this.speedY = Math.random() * 0.5 - 0.25;
+        this.opacity = Math.random() * 0.5 + 0.2;
+    }
+
+    update() {
+        this.x += this.speedX;
+        this.y += this.speedY;
+
+        if (this.x > canvas.width) this.x = 0;
+        if (this.x < 0) this.x = canvas.width;
+        if (this.y > canvas.height) this.y = 0;
+        if (this.y < 0) this.y = canvas.height;
+    }
+
+    draw() {
+        ctx.fillStyle = `rgba(59, 130, 246, ${this.opacity})`;
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+        ctx.fill();
+    }
+}
+
+function initParticles() {
+    for (let i = 0; i < particleCount; i++) {
+        particles.push(new Particle());
+    }
+}
+
+function animateParticles() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    
+    particles.forEach(particle => {
+        particle.update();
+        particle.draw();
+    });
+
+    requestAnimationFrame(animateParticles);
+}
+
+initParticles();
+animateParticles();
+
+window.addEventListener('resize', () => {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+});
+
+/* ============================================
+   TYPING ANIMATION
+   ============================================ */
+const typingEl = document.getElementById('typing');
+const phrases = [
+    '.NET Backend Engineer',
+    'ASP.NET Core Developer',
+    'Clean Architecture Advocate',
+    'SOLID Principles Expert',
+    'ICPC ECPC 2024 Honorable'
+];
+
+let phraseIndex = 0;
+let charIndex = 0;
+let isDeleting = false;
+
+function type() {
+    const currentPhrase = phrases[phraseIndex];
+    
+    if (!isDeleting) {
+        typingEl.textContent = currentPhrase.substring(0, charIndex + 1);
+        charIndex++;
+        
+        if (charIndex === currentPhrase.length) {
+            isDeleting = true;
+            setTimeout(type, 2000);
+            return;
+        }
+    } else {
+        typingEl.textContent = currentPhrase.substring(0, charIndex - 1);
+        charIndex--;
+        
+        if (charIndex === 0) {
+            isDeleting = false;
+            phraseIndex = (phraseIndex + 1) % phrases.length;
+        }
+    }
+    
+    setTimeout(type, isDeleting ? 40 : 100);
+}
+
+setTimeout(type, 1000);
+
+/* ============================================
+   SCROLL REVEAL
+   ============================================ */
+const revealElements = document.querySelectorAll('[data-scroll]');
+
+const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('in-view');
+            revealObserver.unobserve(entry.target);
+        }
+    });
+}, {
+    threshold: 0.1,
+    rootMargin: '0px 0px -80px 0px'
+});
+
+revealElements.forEach(el => revealObserver.observe(el));
+
+/* ============================================
+   ANIMATED COUNTERS
+   ============================================ */
+const counters = document.querySelectorAll('[data-count]');
+
+const counterObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            const target = entry.target;
+            const count = parseInt(target.getAttribute('data-count'));
+            let current = 0;
+            const increment = count / 60;
+            
+            const timer = setInterval(() => {
+                current += increment;
+                if (current >= count) {
+                    target.textContent = count + '+';
+                    clearInterval(timer);
+                } else {
+                    target.textContent = Math.floor(current) + '+';
+                }
+            }, 30);
+            
+            counterObserver.unobserve(target);
+        }
+    });
+}, { threshold: 0.5 });
+
+counters.forEach(counter => counterObserver.observe(counter));
+
+/* ============================================
+   3D TILT EFFECT
+   ============================================ */
+const tiltElements = document.querySelectorAll('[data-tilt]');
+
+tiltElements.forEach(el => {
+    el.addEventListener('mousemove', (e) => {
+        const rect = el.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        
+        const centerX = rect.width / 2;
+        const centerY = rect.height / 2;
+        
+        const rotateX = (y - centerY) / 10;
+        const rotateY = (centerX - x) / 10;
+        
+        el.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) scale(1.02)`;
+    });
+    
+    el.addEventListener('mouseleave', () => {
+        el.style.transform = 'perspective(1000px) rotateX(0) rotateY(0) scale(1)';
+    });
+});
+
+/* ============================================
+   SKILLS TABS
+   ============================================ */
+const skillsTabs = document.querySelectorAll('.skills__tab');
+const skillsPanels = document.querySelectorAll('.skills__panel');
+
+skillsTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+        const target = tab.getAttribute('data-tab');
+        
+        skillsTabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        
+        skillsPanels.forEach(panel => {
+            panel.classList.remove('active');
+            if (panel.getAttribute('data-panel') === target) {
+                panel.classList.add('active');
+            }
+        });
+    });
+});
+
+/* ============================================
+   CERTIFICATE FILTERS
+   ============================================ */
+const certFilters = document.querySelectorAll('.cert-filter');
+const certs = document.querySelectorAll('.cert');
+
+certFilters.forEach(filter => {
+    filter.addEventListener('click', () => {
+        const category = filter.getAttribute('data-filter');
+        
+        certFilters.forEach(f => f.classList.remove('active'));
+        filter.classList.add('active');
+        
+        certs.forEach((cert, index) => {
+            const certCategory = cert.getAttribute('data-category');
+            
+            if (category === 'all' || certCategory === category) {
+                cert.classList.remove('hidden');
+                cert.style.animation = 'none';
+                setTimeout(() => {
+                    cert.style.animation = '';
+                }, 10);
+            } else {
+                cert.classList.add('hidden');
+            }
+        });
+    });
+});
+
+/* ============================================
+   CERTIFICATE MODAL
+   ============================================ */
+function openCert(id) {
+    const cert = certData[id];
+    if (!cert) return;
+    
+    const modal = document.getElementById('modal');
+    const tag = document.getElementById('modalTag');
+    const title = document.getElementById('modalTitle');
+    const issuer = document.getElementById('modalIssuer');
+    const preview = document.getElementById('modalPreview');
+    const actions = document.getElementById('modalActions');
+    
+    // Set category tag
+    tag.className = 'modal__tag cert__tag cert__tag--' + cert.category.replace('-', '');
+    tag.textContent = cert.category.replace('-', ' ').toUpperCase();
+    
+    // Set content
+    title.textContent = cert.title;
+    issuer.textContent = cert.issuer;
+    
+    // Clear previous content
+    preview.innerHTML = '';
+    actions.innerHTML = '';
+    
+    // Handle different certificate types
+    if (cert.type === 'image') {
+        const img = document.createElement('img');
+        img.src = cert.file;
+        img.alt = cert.title;
+        preview.appendChild(img);
+        actions.innerHTML = `<a href="${cert.file}" target="_blank"><i class="fas fa-external-link-alt"></i> Open Certificate</a>`;
+        
+    } else if (cert.type === 'pdf') {
+        preview.innerHTML = `
+            <div style="padding: 80px 40px; text-align: center; color: var(--text-muted);">
+                <i class="fas fa-file-pdf" style="font-size: 4rem; color: #ef4444; opacity: 0.7; margin-bottom: 16px;"></i>
+                <p style="font-size: 1.1rem;">PDF Certificate</p>
+                <p style="font-size: 0.9rem; margin-top: 8px;">Click below to view or download</p>
+            </div>`;
+        actions.innerHTML = `
+            <a href="${cert.file}" target="_blank"><i class="fas fa-eye"></i> View PDF</a>
+            <a href="${cert.file}" download class="secondary"><i class="fas fa-download"></i> Download</a>`;
+        
+    } else if (cert.type === 'multi') {
+        preview.innerHTML = `
+            <div style="padding: 80px 40px; text-align: center; color: var(--text-muted);">
+                <i class="fas fa-layer-group" style="font-size: 4rem; color: var(--accent); opacity: 0.7; margin-bottom: 16px;"></i>
+                <p style="font-size: 1.1rem;">Multiple Certificates</p>
+                <p style="font-size: 0.9rem; margin-top: 8px;">Select a certificate below to view</p>
+            </div>`;
+        cert.files.forEach(item => {
+            actions.innerHTML += `<a href="${item.file}" target="_blank"><i class="fas fa-file-pdf"></i> ${item.label}</a>`;
+        });
+    }
+    
+    modal.classList.add('open');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeCert() {
+    const modal = document.getElementById('modal');
+    modal.classList.remove('open');
+    document.body.style.overflow = '';
+}
+
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeCert();
+});
+
+/* ============================================
+   CONTACT FORM
+   ============================================ */
+const contactForm = document.getElementById('contactForm');
+const formSuccess = document.getElementById('formSuccess');
+
+if (contactForm) {
+    contactForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        
+        const name = document.getElementById('name').value.trim();
+        const email = document.getElementById('email').value.trim();
+        const subject = document.getElementById('subject').value.trim() || 'Portfolio Inquiry';
+        const message = document.getElementById('message').value.trim();
+        
+        const mailto = `mailto:ma1700641@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Hello Mohamed,\n\nMy name is ${name} (${email}).\n\n${message}`)}`;
+        
+        window.location.href = mailto;
+        
+        formSuccess.classList.add('show');
+        contactForm.reset();
+        setTimeout(() => formSuccess.classList.remove('show'), 5000);
+    });
+}
+
+/* ============================================
    SMOOTH SCROLL
-   ============================================= */
+   ============================================ */
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
+    anchor.addEventListener('click', function(e) {
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
             e.preventDefault();
@@ -402,15 +577,16 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-/* =============================================
+/* ============================================
    BACK TO TOP
-   ============================================= */
-const backToTop = document.getElementById('backToTop');
+   ============================================ */
+const toTop = document.getElementById('toTop');
+
 window.addEventListener('scroll', () => {
     if (window.scrollY > 500) {
-        backToTop.classList.add('visible');
+        toTop.classList.add('visible');
     } else {
-        backToTop.classList.remove('visible');
+        toTop.classList.remove('visible');
     }
 });
 
@@ -418,48 +594,25 @@ function scrollToTop() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-/* =============================================
-   CONTACT FORM
-   ============================================= */
-const contactForm = document.getElementById('contactForm');
-const formSuccess = document.getElementById('formSuccess');
-
-if (contactForm) {
-    contactForm.addEventListener('submit', function (e) {
-        e.preventDefault();
-        const name = document.getElementById('name').value.trim();
-        const email = document.getElementById('email').value.trim();
-        const subject = document.getElementById('subject').value.trim() || 'Portfolio Inquiry';
-        const message = document.getElementById('message').value.trim();
-
-        const mailto = `mailto:ma1700641@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Hello Mohamed,\n\nMy name is ${name} (${email}).\n\n${message}`)}`;
-        window.location.href = mailto;
-
-        formSuccess.classList.add('show');
-        contactForm.reset();
-        setTimeout(() => formSuccess.classList.remove('show'), 5000);
+/* ============================================
+   PARALLAX EFFECT
+   ============================================ */
+window.addEventListener('scroll', () => {
+    const scrolled = window.scrollY;
+    const parallaxElements = document.querySelectorAll('.hero__bg');
+    
+    parallaxElements.forEach(el => {
+        el.style.transform = `translateY(${scrolled * 0.5}px)`;
     });
-}
-
-/* =============================================
-   CERT CARD ANIMATIONS (stagger on load)
-   ============================================= */
-const certCardList = document.querySelectorAll('.cert-card');
-certCardList.forEach((card, i) => {
-    card.style.opacity = '0';
-    card.style.transform = 'translateY(24px)';
-    card.style.transition = `opacity 0.5s ease ${i * 0.04}s, transform 0.5s ease ${i * 0.04}s`;
 });
 
-const certObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            const card = entry.target;
-            card.style.opacity = '1';
-            card.style.transform = 'translateY(0)';
-            certObserver.unobserve(card);
-        }
-    });
-}, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
-
-certCardList.forEach(card => certObserver.observe(card));
+/* ============================================
+   PAGE LOAD ANIMATION
+   ============================================ */
+window.addEventListener('load', () => {
+    document.body.style.opacity = '0';
+    setTimeout(() => {
+        document.body.style.transition = 'opacity 0.6s ease';
+        document.body.style.opacity = '1';
+    }, 100);
+});
